@@ -1,4 +1,4 @@
-# Setoolkit-ile-Parola-Ele-Ge-irme
+# Setoolkit-ile-Parola-Ele-Gecirme
 Setoolkit ile Kullanıcı Adı ve Parola Ele Gecirme
 
 HEDEF: Google hesabını ele geçirmek için kurbanı verilen adrese yönledirerek bilgilerini ele geçirmek!
@@ -15,7 +15,7 @@ HEDEF: Google hesabını ele geçirmek için kurbanı verilen adrese yönledirer
 - Kullanıcı adı ve paroları ele geçireceğimiz için 3 modül olan “Credential Harvester Attack Method” kısmına giriyoruz.
 ![3](https://user-images.githubusercontent.com/67163428/191459014-bd0e2f7e-664c-4293-8472-382e1311f7f8.png)
 
--Hazır temaları kullanacağım için 1. Modül “Web Templates” kısmına giriyorum
+- Hazır temaları kullanacağım için 1. Modül “Web Templates” kısmına giriyorum.
 ![4](https://user-images.githubusercontent.com/67163428/191459443-176a5725-fcf9-479b-a516-a6dc7398486b.png)
 
 
